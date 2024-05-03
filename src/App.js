@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <section>
-        <h1>오늘의 할일 npm</h1>
+        <h1>오늘의 할일 </h1>
         <TodoList />
       </section>
     </div>
